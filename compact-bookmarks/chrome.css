@@ -5,8 +5,6 @@
 */
 @-moz-document url-prefix("chrome:") {
 
-  /* Bookmarks Toolbar */
-
   /* Toolbar Bookmarks - Text */
   #PlacesToolbar .bookmark-item:not([type='menu'])>.toolbarbutton-text {
     font-size: 0px;
